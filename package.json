@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Show the cantons around you using swissBOUNDARIES3D canton boundaries.",
   "scripts": {
-    "browser-build": "npm run parcel-build && cordova build browser && npm run copy-favicon",
+    "browser-build": "npm run parcel-build && cordova platform add browser && cordova build browser && npm run copy-favicon",
     "copy-favicon": "cp src/favicon.ico platforms/browser/www/",
     "eslint": "eslint .",
     "parcel-build": "parcel build --public-url . src/index.html --out-dir www",
