@@ -1,0 +1,19 @@
+{
+  "name": "logo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node svg.js > 25-and-jura.svg",
+    "start": "watchify png.js -o png-bundle.js"
+  },
+  "keywords": [],
+  "author": "Roman Zoller",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^5.5.0",
+    "d3-node": "^2.0.1",
+    "file-saver": "^2.0.0",
+    "watchify": "^3.11.0"
+  }
+}
