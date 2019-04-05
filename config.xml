@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="ch.rzoller.twenty_five_and_jura" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>25 and Jura</name>
+    <description>
+        Show the cantons around you using swissBOUNDARIES3D canton boundaries.
+    </description>
+    <author email="rzoller.ch@gmail.com" href="https://rzoller.ch">
+        Roman Zoller
+    </author>
+    <content src="index.html" />
+    <icon src="src/img/25-and-jura.png" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+</widget>

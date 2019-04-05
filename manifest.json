@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "25 and Jura",
+  "short_name": "25 and Jura",
+  "version": "ch.rzoller.twenty_five_and_jura",
+  "description": "Show the cantons around you using swissBOUNDARIES3D canton boundaries.",
+  "author": "Roman Zoller",
+  "icons": [
+    {
+      "src": "src/img/25-and-jura.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}
