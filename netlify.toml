@@ -1,0 +1,3 @@
+[build]
+  command = "npm run browser-build"
+  publish = "platforms/browser/www"
