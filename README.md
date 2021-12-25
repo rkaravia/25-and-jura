@@ -4,7 +4,7 @@ Show the cantons around you using swissBOUNDARIES3D canton boundaries.
 
 ## Demo
 
-- [Open in browser](https://rzoller.ch/25-and-jura/)
+- [Open in browser](https://labs.karavia.ch/25-and-jura/)
 
 TODO: Publish Android app apk
 

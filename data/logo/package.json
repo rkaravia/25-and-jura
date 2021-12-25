@@ -8,7 +8,7 @@
     "start": "watchify png.js -o png-bundle.js"
   },
   "keywords": [],
-  "author": "Roman Zoller",
+  "author": "Roman Karavia",
   "license": "MIT",
   "dependencies": {
     "d3": "^5.5.0",

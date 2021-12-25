@@ -10,7 +10,7 @@
     "parcel-build": "parcel build --public-url . src/index.html --out-dir www",
     "start": "npm run parcel-build && cordova run browser"
   },
-  "author": "Roman Zoller",
+  "author": "Roman Karavia",
   "license": "MIT",
   "dependencies": {
     "@turf/bearing": "^6.0.1",
